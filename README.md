@@ -18,3 +18,6 @@ changed a few styles for footer and the login/register buttons.
 
 12:22 pm:
 Added a dropdown to my homepage named Content Management.
+
+12:49 pm:
+Added core class files and added the package files for nuget.
