@@ -15,3 +15,6 @@ changed nav classes and footer class names to add styles and replaced site.css w
 
 11:46 am:
 changed a few styles for footer and the login/register buttons.
+
+12:22 pm:
+Added a dropdown to my homepage named Content Management.
