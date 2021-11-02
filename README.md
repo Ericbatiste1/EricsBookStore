@@ -21,3 +21,6 @@ Added a dropdown to my homepage named Content Management.
 
 12:49 pm:
 Added core class files and added the package files for nuget.
+
+8:59 pm: 
+corrected all the errors and deleted class1.cs files, edited the using statement in startup.cs and corrected the errors in homecontroller with new errorviewmodel.
