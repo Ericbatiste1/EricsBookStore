@@ -14,11 +14,13 @@
     <PackageReference Include="Microsoft.EntityFrameworkCore.Relational" Version="5.0.11" />
     <PackageReference Include="Microsoft.EntityFrameworkCore.SqlServer" Version="5.0.11" />
     <PackageReference Include="Microsoft.EntityFrameworkCore.Tools" Version="5.0.8" />
+    <PackageReference Include="Microsoft.VisualStudio.Web.CodeGeneration.Design" Version="5.0.2" />
   </ItemGroup>
 
   <ItemGroup>
     <ProjectReference Include="..\EricsBooks.DataAccess\EricsBooks.DataAccess.csproj" />
     <ProjectReference Include="..\EricsBooks.Models\EricsBooks.Models.csproj" />
+    <ProjectReference Include="..\EricsBooks.Utility\EricsBooks.Utility.csproj" />
   </ItemGroup>
 
 </Project>
