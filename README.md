@@ -24,3 +24,7 @@ Added core class files and added the package files for nuget.
 
 8:59 pm: 
 corrected all the errors and deleted class1.cs files, edited the using statement in startup.cs and corrected the errors in homecontroller with new errorviewmodel.
+
+11/2/2021
+
+3:49 pm: added areas for Customer and added SD class and project references and when I ran my program it errored: InvalidOperationException: The constraint reference 'Customer' could not be resolved to a type. Register the constraint type with 'Microsoft.AspNetCore.Routing.RouteOptions.ConstraintMap'.
