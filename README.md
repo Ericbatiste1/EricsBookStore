@@ -32,3 +32,7 @@ corrected all the errors and deleted class1.cs files, edited the using statement
 4:09 pm: Error fixed.... typo! ughh!!!
 
 4:14pm: added Admin areas and added the proper view files to it.
+
+11/10/2021 
+
+9:21 am: changed database name in appsettings.json and added migration, 20211110142010_AddDefaultIdentityMigration.cs
