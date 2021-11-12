@@ -12,6 +12,8 @@ using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
+using EricsBooks.DataAccess.Repository.IRepository;
+using EricsBooks.DataAccess.Repository;
 
 namespace EricsBookStore
 {
@@ -34,6 +36,7 @@ namespace EricsBookStore
 
             services.AddDefaultIdentity<IdentityUser>()
                 .AddEntityFrameworkStores<ApplicationDbContext>();
+            services.AddScoped<UnitOfWork, UnitOfWork>();
             services.AddControllersWithViews();
         }
 
