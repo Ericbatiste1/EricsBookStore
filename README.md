@@ -40,3 +40,7 @@ corrected all the errors and deleted class1.cs files, edited the using statement
 10:12 am: Added Category.cs and added removed then re added AddCategoryToDb migrations then updated the database once the duplication error was resolved.
 
 10:39 am: Added the IRepository and Repository.cs files 
+
+11/11/2021
+
+9:16 pm: Added ICategoryRepository.cs and CategoryRepository.cs.
