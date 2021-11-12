@@ -48,3 +48,5 @@ corrected all the errors and deleted class1.cs files, edited the using statement
 10:28 pm : Added UnitOfWork, IUnitOfWork, ISP_Call, SP_Call and edited startup.cs and fixed some errors and dapper.
 
 1:50 am: Added Category in admin areas also added it into the dropdown menu.
+
+2:37 am: added category.js
