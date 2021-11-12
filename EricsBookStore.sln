@@ -3,13 +3,13 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.31515.178
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EricsBookStore", "EricsBookStore\EricsBookStore.csproj", "{2951F090-6C30-451C-B4C7-A60E86AB46C2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EricsBookStore", "EricsBookStore\EricsBookStore.csproj", "{2951F090-6C30-451C-B4C7-A60E86AB46C2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EricsBooks.DataAccess", "EricsBooks.DataAccess\EricsBooks.DataAccess.csproj", "{60AC01E6-6E49-4273-8D86-42EAFCB6201C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EricsBooks.DataAccess", "EricsBooks.DataAccess\EricsBooks.DataAccess.csproj", "{60AC01E6-6E49-4273-8D86-42EAFCB6201C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EricsBooks.Models", "EricsBooks.Models\EricsBooks.Models.csproj", "{0535623B-2F42-4916-B9B9-7A31EE0E0A77}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EricsBooks.Models", "EricsBooks.Models\EricsBooks.Models.csproj", "{0535623B-2F42-4916-B9B9-7A31EE0E0A77}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EricsBooks.Utility", "EricsBooks.Utility\EricsBooks.Utility.csproj", "{DF3EA294-5EA2-47BF-818F-00C5FFD4BD21}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EricsBooks.Utility", "EricsBooks.Utility\EricsBooks.Utility.csproj", "{DF3EA294-5EA2-47BF-818F-00C5FFD4BD21}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
