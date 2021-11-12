@@ -44,3 +44,5 @@ corrected all the errors and deleted class1.cs files, edited the using statement
 11/11/2021
 
 9:16 pm: Added ICategoryRepository.cs and CategoryRepository.cs.
+
+10:28 pm : Added UnitOfWork, IUnitOfWork, ISP_Call, SP_Call and edited startup.cs and fixed some errors and dapper.
