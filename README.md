@@ -50,3 +50,13 @@ corrected all the errors and deleted class1.cs files, edited the using statement
 1:50 am: Added Category in admin areas also added it into the dropdown menu.
 
 2:37 am: added category.js
+
+11/17/2021
+
+9:30 am Cloned my assignment into school computer.
+
+10:49 AM: Added Upsert.cshtml and createandbacktolistbutton and same thing for edit button for create new category in Admin. Also Fixed this error from a typo : Severity Code Description Project File Line Suppression State
+Warning CS0472 The result of the expression is always 'true' since a value of type 'int' is never equal to 'null' of type 'int?' EricsBookStore C:\Users\W0774957\source\repos\EricsBookStore\EricsBookStore\Areas\Admin\Views\Category\Upsert.cshtml 
+
+10:50 Am: Saved and closed down for end of class..
+
