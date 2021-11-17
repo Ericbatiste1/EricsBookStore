@@ -1,5 +1,4 @@
 ﻿using EricsBooks.DataAccess.Repository;
-using EricsBooks.Models;
 using Microsoft.AspNetCore.Mvc;
 using System;
 using System.Collections.Generic;
@@ -20,21 +19,6 @@ namespace EricsBookStore.Areas.Admin.Controllers
         {
             return View();
         }
-
-        public IActionResult Upsert(int? id)
-        {
-            Category category = new Category();
-            if(id == null)
-            {
-                return View(category);
-            }
-            if(category == null)
-            {
-                return NotFound();
-            }
-            return View();
-        }
-
         #region API CALLS
         [HttpGet]
         public IActionResult GetAll()
@@ -46,4 +30,3 @@ namespace EricsBookStore.Areas.Admin.Controllers
         #endregion
     }
 }
-    
