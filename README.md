@@ -60,3 +60,7 @@ Warning CS0472 The result of the expression is always 'true' since a value of ty
 
 10:50 Am: Saved and closed down for end of class..
 
+11/22/2021
+
+3:46 pm: added script and title for upsert.
+
