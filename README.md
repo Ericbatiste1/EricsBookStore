@@ -64,3 +64,5 @@ Warning CS0472 The result of the expression is always 'true' since a value of ty
 
 3:46 pm: added script and title for upsert.
 
+4:38 pm: Added Delete and fixed errors with Upsert.
+
