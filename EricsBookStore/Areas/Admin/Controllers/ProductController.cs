@@ -27,6 +27,7 @@ namespace EricsBookStore.Areas.Admin.Controllers
             return View();
         }
 
+
         public IActionResult Upsert(int? id)
         {
             ProductVM productVM = new ProductVM()
@@ -96,6 +97,6 @@ namespace EricsBookStore.Areas.Admin.Controllers
             _unitOfWork.Save();
             return Json(new { success = true, message = "Delete successful" });
         }
-        #endregion
+       #endregion
     }
 }
