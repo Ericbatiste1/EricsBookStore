@@ -83,3 +83,5 @@ Warning CS0472 The result of the expression is always 'true' since a value of ty
 2:21 am: Added ProductVM class, added coverType.js file to fix coverType.. added ProductController.cs
 
 2:52 am: Edited ProductController with updated productVM and added product.js and added product into layout for dropdown.
+
+3:00 am: fixed title for category and upsert when editing column.
