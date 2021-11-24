@@ -88,3 +88,7 @@ Warning CS0472 The result of the expression is always 'true' since a value of ty
 3:00 am: fixed title for category and upsert when editing column.
 
 3:42 am: tried changing font color for database...... No luck more on this later.. shut down for the night.
+
+11/24/2021
+
+10:46 am: Added table-dark to my tables for database finally readable!!
