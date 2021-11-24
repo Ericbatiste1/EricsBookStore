@@ -9,6 +9,8 @@ namespace EricsBookStore.DataAccess.Data
 {
     public class ApplicationDbContext : IdentityDbContext
     {
+        internal object coverTypes;
+
         public ApplicationDbContext(DbContextOptions<ApplicationDbContext> options)
             : base(options)
         {
