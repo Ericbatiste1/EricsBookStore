@@ -81,3 +81,5 @@ Warning CS0472 The result of the expression is always 'true' since a value of ty
 1:36 am: Added product into unitofwork and iunitofwork and IproductRepo and productrepo
 
 2:21 am: Added ProductVM class, added coverType.js file to fix coverType.. added ProductController.cs
+
+2:52 am: Edited ProductController with updated productVM and added product.js and added product into layout for dropdown.
