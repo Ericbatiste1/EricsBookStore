@@ -79,3 +79,5 @@ Warning CS0472 The result of the expression is always 'true' since a value of ty
 12:59 am: Updated product.cs class and created new migration for 20211124055834_addValidationToProduct.cs
 
 1:36 am: Added product into unitofwork and iunitofwork and IproductRepo and productrepo
+
+2:21 am: Added ProductVM class, added coverType.js file to fix coverType.. added ProductController.cs
