@@ -85,3 +85,5 @@ Warning CS0472 The result of the expression is always 'true' since a value of ty
 2:52 am: Edited ProductController with updated productVM and added product.js and added product into layout for dropdown.
 
 3:00 am: fixed title for category and upsert when editing column.
+
+3:42 am: tried changing font color for database...... No luck more on this later.. shut down for the night.
