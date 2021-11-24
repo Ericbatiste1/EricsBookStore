@@ -9,7 +9,6 @@ namespace EricsBookStore.DataAccess.Data
 {
     public class ApplicationDbContext : IdentityDbContext
     {
-        internal object coverTypes;
 
         public ApplicationDbContext(DbContextOptions<ApplicationDbContext> options)
             : base(options)
@@ -17,6 +16,7 @@ namespace EricsBookStore.DataAccess.Data
         }
 
         public DbSet<Category> Categories { get; set; }
+        public DbSet<CoverType> CoverType { get; set; }
 
     }
 }
