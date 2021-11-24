@@ -73,3 +73,5 @@ Warning CS0472 The result of the expression is always 'true' since a value of ty
 10:40 pm : fixed typo.
 
 11:29 pm : Added covertype to the database -- 20211124042752_addCoverTypeToDb.cs and fixed error..
+
+12:28 am: Added CoverType controller, covertype Index and Upsert views and added product.cs Class.
