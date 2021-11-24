@@ -66,3 +66,6 @@ Warning CS0472 The result of the expression is always 'true' since a value of ty
 
 4:38 pm: Added Delete and fixed errors with Upsert.
 
+11/23/2021
+
+10:35 pm: Added covertype to unitofwork and repository.
