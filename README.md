@@ -1,7 +1,8 @@
 # EricsBookStore
 Book Store
+Total Time Spent - 14 hours and 3 mins
 
-11/1/2021 
+11/1/2021 - 2 hours
 
 11:18 am:
 Created github repo for EricsBookStore and changed indentity.
@@ -25,7 +26,7 @@ Added core class files and added the package files for nuget.
 8:59 pm: 
 corrected all the errors and deleted class1.cs files, edited the using statement in startup.cs and corrected the errors in homecontroller with new errorviewmodel.
 
-11/2/2021
+11/2/2021 - 25 mins
 
 3:49 pm: added areas for Customer and added SD class and project references and when I ran my program it errored: InvalidOperationException: The constraint reference 'Customer' could not be resolved to a type. Register the constraint type with 'Microsoft.AspNetCore.Routing.RouteOptions.ConstraintMap'.
 
@@ -33,7 +34,7 @@ corrected all the errors and deleted class1.cs files, edited the using statement
 
 4:14pm: added Admin areas and added the proper view files to it.
 
-11/10/2021 
+11/10/2021 - 1 hour and 18 mins
 
 9:21 am: changed database name in appsettings.json and added migration, 20211110142010_AddDefaultIdentityMigration.cs
 
@@ -41,7 +42,7 @@ corrected all the errors and deleted class1.cs files, edited the using statement
 
 10:39 am: Added the IRepository and Repository.cs files 
 
-11/11/2021
+11/11/2021 - 3 hours
 
 9:16 pm: Added ICategoryRepository.cs and CategoryRepository.cs.
 
@@ -51,7 +52,7 @@ corrected all the errors and deleted class1.cs files, edited the using statement
 
 2:37 am: added category.js
 
-11/17/2021
+11/17/2021 - 1 hour and 20 mins
 
 9:30 am Cloned my assignment into school computer.
 
@@ -60,13 +61,13 @@ Warning CS0472 The result of the expression is always 'true' since a value of ty
 
 10:50 Am: Saved and closed down for end of class..
 
-11/22/2021
+11/22/2021 - 1 hour
 
 3:46 pm: added script and title for upsert.
 
 4:38 pm: Added Delete and fixed errors with Upsert.
 
-11/23/2021
+11/23/2021 - 5 hours
 
 10:35 pm: Added covertype to unitofwork and repository.
 
@@ -85,3 +86,5 @@ Warning CS0472 The result of the expression is always 'true' since a value of ty
 2:52 am: Edited ProductController with updated productVM and added product.js and added product into layout for dropdown.
 
 3:00 am: fixed title for category and upsert when editing column.
+
+3:42 am: tried changing font color for database...... No luck more on this later.. shut down for the night.
