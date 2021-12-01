@@ -105,3 +105,5 @@ Error	CS1503	Argument 2: cannot convert from 'System.Collections.Generic.IEnumer
 https://stackoverflow.com/questions/58817271/cannot-implicitly-convert-type-listsystem-web-mvc-selectlistitem-to-ienumera?answertab=active#comment103912529_58817271
 
 10:02 am: uncommented out ProductController.cs and added new folder called images products cannot use "/".
+
+10:03 am: added in updated readme in the project.
