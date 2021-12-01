@@ -107,3 +107,5 @@ https://stackoverflow.com/questions/58817271/cannot-implicitly-convert-type-list
 10:02 am: uncommented out ProductController.cs and added new folder called images products cannot use "/".
 
 10:03 am: added in updated readme in the project.
+
+10:08 am: added img folder and class.cs just to upload img to github.
