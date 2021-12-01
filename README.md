@@ -113,3 +113,5 @@ https://stackoverflow.com/questions/58817271/cannot-implicitly-convert-type-list
 10:10 am: deleted class.cs and it deleted my img folder!!!!
 
 10:13 am: added an img as a placeholder! grr! fixed.
+
+10:29 am: end of class 
