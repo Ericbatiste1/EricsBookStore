@@ -115,3 +115,5 @@ https://stackoverflow.com/questions/58817271/cannot-implicitly-convert-type-list
 10:13 am: added an img as a placeholder! grr! fixed.
 
 10:29 am: end of class 
+
+10:41 am: updated Readme..
