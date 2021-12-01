@@ -5,6 +5,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Web.Mvc;
 
+
 namespace EricsBooks.Models.ViewModels
 {
     public class ProductVM
