@@ -27,4 +27,8 @@
     <ProjectReference Include="..\EricsBooks.Utility\EricsBooks.Utility.csproj" />
   </ItemGroup>
 
+  <ItemGroup>
+    <Folder Include="wwwroot\img\" />
+  </ItemGroup>
+
 </Project>
