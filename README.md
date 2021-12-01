@@ -92,3 +92,11 @@ Warning CS0472 The result of the expression is always 'true' since a value of ty
 11/24/2021
 
 10:46 am: Added table-dark to my tables for database finally readable!!
+
+12/1/2021
+
+9:00 am: started lab..
+
+9:33 am: added product upsert view... but error..: 
+Severity	Code	Description	Project	File	Line	Suppression State
+Error	CS1503	Argument 2: cannot convert from 'System.Collections.Generic.IEnumerable<System.Web.Mvc.SelectListItem>' to 'System.Collections.Generic.IEnumerable<Microsoft.AspNetCore.Mvc.Rendering.SelectListItem>'	EricsBookStore	C:\Users\W0774957\source\repos\EricsBookStore\EricsBookStore\Areas\Admin\Views\Product\Upsert.cshtml	70	Active
