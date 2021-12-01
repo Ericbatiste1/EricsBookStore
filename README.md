@@ -100,3 +100,6 @@ Warning CS0472 The result of the expression is always 'true' since a value of ty
 9:33 am: added product upsert view... but error..: 
 Severity	Code	Description	Project	File	Line	Suppression State
 Error	CS1503	Argument 2: cannot convert from 'System.Collections.Generic.IEnumerable<System.Web.Mvc.SelectListItem>' to 'System.Collections.Generic.IEnumerable<Microsoft.AspNetCore.Mvc.Rendering.SelectListItem>'	EricsBookStore	C:\Users\W0774957\source\repos\EricsBookStore\EricsBookStore\Areas\Admin\Views\Product\Upsert.cshtml	70	Active
+
+9:53 am: FIXED!!! Huge error fix in ProductVM.cs and ProductController.cs and added Install-Package Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation -Version 5.0.8 to EricsBooks.Models.csproj to fix error thanks to... 
+https://stackoverflow.com/questions/58817271/cannot-implicitly-convert-type-listsystem-web-mvc-selectlistitem-to-ienumera?answertab=active#comment103912529_58817271
