@@ -1,6 +1,6 @@
 # EricsBookStore
 Book Store
-Total Time Spent - 14 hours and 3 mins
+Total Time Spent - 15 hours and 43 mins
 
 11/1/2021 - 2 hours
 
@@ -93,7 +93,7 @@ Warning CS0472 The result of the expression is always 'true' since a value of ty
 
 10:46 am: Added table-dark to my tables for database finally readable!!
 
-12/1/2021
+12/1/2021 1 Hour 40 mins 
 
 9:00 am: started lab..
 
