@@ -125,3 +125,8 @@ https://stackoverflow.com/questions/58817271/cannot-implicitly-convert-type-list
 11:40 am: Fixed error where Category showed for both category and covertype lists.
 
 11:51 am: updated productcontroller.
+
+11:55 am: Getting error: SqlException: The INSERT statement conflicted with the FOREIGN KEY constraint "FK_Products_CoverType_CategoryId". 
+The conflict occurred in database "EricsBookStore", table "dbo.CoverType", column 'Id'.
+The statement has been terminated.
+Cannot resolve.
