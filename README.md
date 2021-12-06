@@ -123,3 +123,5 @@ https://stackoverflow.com/questions/58817271/cannot-implicitly-convert-type-list
 11:00 am: Started class.
 
 11:40 am: Fixed error where Category showed for both category and covertype lists.
+
+11:51 am: updated productcontroller.
