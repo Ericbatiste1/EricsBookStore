@@ -117,3 +117,9 @@ https://stackoverflow.com/questions/58817271/cannot-implicitly-convert-type-list
 10:29 am: end of class 
 
 10:41 am: updated Readme..
+
+12/6/2021 
+
+11:00 am: Started class.
+
+11:40 am: Fixed error where Category showed for both category and covertype lists.
