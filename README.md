@@ -130,3 +130,5 @@ https://stackoverflow.com/questions/58817271/cannot-implicitly-convert-type-list
 The conflict occurred in database "EricsBookStore", table "dbo.CoverType", column 'Id'.
 The statement has been terminated.
 Cannot resolve.
+
+12:13 pm: tried fixing the sqlexception error.. Getting closer still no luck though.
