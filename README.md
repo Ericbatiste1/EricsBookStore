@@ -132,3 +132,7 @@ The statement has been terminated.
 Cannot resolve.
 
 12:13 pm: tried fixing the sqlexception error.. Getting closer still no luck though.
+
+12/8/2021
+
+5:32 pm: Fixed up HomeController.cs
