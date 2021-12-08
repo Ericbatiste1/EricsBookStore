@@ -16,17 +16,17 @@ namespace EricsBookStore.Area.Customer.Controllers
     public class HomeController : Controller
     {
         private readonly ILogger<HomeController> _logger;
-        private readonly UnitOfWork _unifOfWork;
+        private readonly UnitOfWork _unitOfWork;
 
-        public HomeController(ILogger<HomeController> logger, UnitOfWork unifOfWork)
+        public HomeController(ILogger<HomeController> logger, UnitOfWork unitOfWork)
         {
             _logger = logger;
-            _unifOfWork = unifOfWork;
+            _unitOfWork = unitOfWork;
         }
-
+        
         public IActionResult Index()
         {
-            IEnumerable<Product> productList = _unifOfWork.Product.GetAll(includeProperties: "Category,CoverType");
+            IEnumerable<Product> productList = _unitOfWork.Product.GetAll(includeProperties: "Category,CoverType");
             return View(productList);
         }
 
