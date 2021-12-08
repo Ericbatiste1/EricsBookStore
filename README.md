@@ -136,3 +136,5 @@ Cannot resolve.
 12/8/2021
 
 5:32 pm: Fixed up HomeController.cs
+
+5:44 pm: Fixed Ajax Error... Still having same error as before with product table and foreign key... 
