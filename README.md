@@ -138,3 +138,7 @@ Cannot resolve.
 5:32 pm: Fixed up HomeController.cs
 
 5:44 pm: Fixed Ajax Error... Still having same error as before with product table and foreign key... 
+
+12/9/2021 
+
+7:41 pm: fixed color being too light to see category and covertype in product.
