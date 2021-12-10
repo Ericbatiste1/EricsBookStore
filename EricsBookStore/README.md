@@ -1,30 +1,20 @@
-# EricsBookStore
-Book Store
-Total Time Spent - 15 hours and 43 mins
+Book Store Total Time Spent - 17 hours and 8 mins
 
 11/1/2021 - 2 hours
 
-11:18 am:
-Created github repo for EricsBookStore and changed indentity.
+11:18 am: Created github repo for EricsBookStore and changed indentity.
 
-11:24 am: 
-Commented out https for school.
+11:24 am: Commented out https for school.
 
-11:39 am:
-Added new bootstrap file and saved the backup bootstrap file, 
-changed nav classes and footer class names to add styles and replaced site.css with new site.css.
+11:39 am: Added new bootstrap file and saved the backup bootstrap file, changed nav classes and footer class names to add styles and replaced site.css with new site.css.
 
-11:46 am:
-changed a few styles for footer and the login/register buttons.
+11:46 am: changed a few styles for footer and the login/register buttons.
 
-12:22 pm:
-Added a dropdown to my homepage named Content Management.
+12:22 pm: Added a dropdown to my homepage named Content Management.
 
-12:49 pm:
-Added core class files and added the package files for nuget.
+12:49 pm: Added core class files and added the package files for nuget.
 
-8:59 pm: 
-corrected all the errors and deleted class1.cs files, edited the using statement in startup.cs and corrected the errors in homecontroller with new errorviewmodel.
+8:59 pm: corrected all the errors and deleted class1.cs files, edited the using statement in startup.cs and corrected the errors in homecontroller with new errorviewmodel.
 
 11/2/2021 - 25 mins
 
@@ -40,7 +30,7 @@ corrected all the errors and deleted class1.cs files, edited the using statement
 
 10:12 am: Added Category.cs and added removed then re added AddCategoryToDb migrations then updated the database once the duplication error was resolved.
 
-10:39 am: Added the IRepository and Repository.cs files 
+10:39 am: Added the IRepository and Repository.cs files
 
 11/11/2021 - 3 hours
 
@@ -56,8 +46,7 @@ corrected all the errors and deleted class1.cs files, edited the using statement
 
 9:30 am Cloned my assignment into school computer.
 
-10:49 AM: Added Upsert.cshtml and createandbacktolistbutton and same thing for edit button for create new category in Admin. Also Fixed this error from a typo : Severity Code Description Project File Line Suppression State
-Warning CS0472 The result of the expression is always 'true' since a value of type 'int' is never equal to 'null' of type 'int?' EricsBookStore C:\Users\W0774957\source\repos\EricsBookStore\EricsBookStore\Areas\Admin\Views\Category\Upsert.cshtml 
+10:49 AM: Added Upsert.cshtml and createandbacktolistbutton and same thing for edit button for create new category in Admin. Also Fixed this error from a typo : Severity Code Description Project File Line Suppression State Warning CS0472 The result of the expression is always 'true' since a value of type 'int' is never equal to 'null' of type 'int?' EricsBookStore C:\Users\W0774957\source\repos\EricsBookStore\EricsBookStore\Areas\Admin\Views\Category\Upsert.cshtml
 
 10:50 Am: Saved and closed down for end of class..
 
@@ -93,16 +82,13 @@ Warning CS0472 The result of the expression is always 'true' since a value of ty
 
 10:46 am: Added table-dark to my tables for database finally readable!!
 
-12/1/2021 1 Hour 40 mins 
+12/1/2021 1 Hour 40 mins
 
 9:00 am: started lab..
 
-9:33 am: added product upsert view... but error..: 
-Severity	Code	Description	Project	File	Line	Suppression State
-Error	CS1503	Argument 2: cannot convert from 'System.Collections.Generic.IEnumerable<System.Web.Mvc.SelectListItem>' to 'System.Collections.Generic.IEnumerable<Microsoft.AspNetCore.Mvc.Rendering.SelectListItem>'	EricsBookStore	C:\Users\W0774957\source\repos\EricsBookStore\EricsBookStore\Areas\Admin\Views\Product\Upsert.cshtml	70	Active
+9:33 am: added product upsert view... but error..: Severity Code Description Project File Line Suppression State Error CS1503 Argument 2: cannot convert from 'System.Collections.Generic.IEnumerable<System.Web.Mvc.SelectListItem>' to 'System.Collections.Generic.IEnumerable<Microsoft.AspNetCore.Mvc.Rendering.SelectListItem>' EricsBookStore C:\Users\W0774957\source\repos\EricsBookStore\EricsBookStore\Areas\Admin\Views\Product\Upsert.cshtml 70 Active
 
-9:53 am: FIXED!!! Huge error fix in ProductVM.cs and ProductController.cs and added Install-Package Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation -Version 5.0.8 to EricsBooks.Models.csproj to fix error thanks to... 
-https://stackoverflow.com/questions/58817271/cannot-implicitly-convert-type-listsystem-web-mvc-selectlistitem-to-ienumera?answertab=active#comment103912529_58817271
+9:53 am: FIXED!!! Huge error fix in ProductVM.cs and ProductController.cs and added Install-Package Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation -Version 5.0.8 to EricsBooks.Models.csproj to fix error thanks to... https://stackoverflow.com/questions/58817271/cannot-implicitly-convert-type-listsystem-web-mvc-selectlistitem-to-ienumera?answertab=active#comment103912529_58817271
 
 10:02 am: uncommented out ProductController.cs and added new folder called images products cannot use "/".
 
@@ -114,11 +100,11 @@ https://stackoverflow.com/questions/58817271/cannot-implicitly-convert-type-list
 
 10:13 am: added an img as a placeholder! grr! fixed.
 
-10:29 am: end of class 
+10:29 am: end of class
 
 10:41 am: updated Readme..
 
-12/6/2021 
+12/6/2021 1 hour 13 mins
 
 11:00 am: Started class.
 
@@ -126,7 +112,16 @@ https://stackoverflow.com/questions/58817271/cannot-implicitly-convert-type-list
 
 11:51 am: updated productcontroller.
 
-11:55 am: Getting error: SqlException: The INSERT statement conflicted with the FOREIGN KEY constraint "FK_Products_CoverType_CategoryId". 
-The conflict occurred in database "EricsBookStore", table "dbo.CoverType", column 'Id'.
-The statement has been terminated.
-Cannot resolve.
+11:55 am: Getting error: SqlException: The INSERT statement conflicted with the FOREIGN KEY constraint "FK_Products_CoverType_CategoryId". The conflict occurred in database "EricsBookStore", table "dbo.CoverType", column 'Id'. The statement has been terminated. Cannot resolve.
+
+12:13 pm: tried fixing the sqlexception error.. Getting closer still no luck though.
+
+12/8/2021 12 mins
+
+5:32 pm: Fixed up HomeController.cs
+
+5:44 pm: Fixed Ajax Error... Still having same error as before with product table and foreign key...
+
+12/9/2021
+
+7:41 pm: fixed color being too light to see category and covertype in product.
