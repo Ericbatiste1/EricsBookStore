@@ -20,11 +20,11 @@ function loadDataTable() {
                 "data": "id",
                 "render": function (data) {
                     return `
-                            <div class="text-center">
-                                <a href="/Admin/Product/Upsert/${data}" class="btn btn-success text-dark" style="cursor:pointer">
+                            <div class="text-center table-dark">
+                                <a href="/Admin/Product/Upsert/${data}" class="btn btn-success text-dark table-dark" style="cursor:pointer">
                                     <i class="fas fa-edit"></i>&nbsp;
                                 </a>
-                                <a onclick=Delete("/Admin/Product/Delete/${data}") class="btn btn-danger text-white" style="cursor:pointer">
+                                <a onclick=Delete("/Admin/Product/Delete/${data}") class="btn btn-danger text-dark table-dark" style="cursor:pointer">
                                     <i class="fas fa-trash-alt"></i>&nbsp;
                                 </a>
                             </div>
