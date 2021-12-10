@@ -1,6 +1,6 @@
 # EricsBookStore
 Book Store
-Total Time Spent - 15 hours and 43 mins
+Total Time Spent - 17 hours and 8 mins
 
 11/1/2021 - 2 hours
 
@@ -118,7 +118,7 @@ https://stackoverflow.com/questions/58817271/cannot-implicitly-convert-type-list
 
 10:41 am: updated Readme..
 
-12/6/2021 
+12/6/2021 1 hour 13 mins
 
 11:00 am: Started class.
 
@@ -133,6 +133,8 @@ Cannot resolve.
 
 12:13 pm: tried fixing the sqlexception error.. Getting closer still no luck though.
 
-12/8/2021
+12/8/2021 12 mins
 
 5:32 pm: Fixed up HomeController.cs
+
+5:44 pm: Fixed Ajax Error... Still having same error as before with product table and foreign key... 
